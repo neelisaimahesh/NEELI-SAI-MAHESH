@@ -1,9 +1,9 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/jskherman/cv.typ/main/cv.typ.schema.json
 
 personal:
-  name: Waseem Riaz
-  email: waseem.riaz.9999@gmail.com
-  phone: (+91) 86965 03303
+  name: Neeli Sai Mahesh
+  email: saimahesh44367@gmail.com
+  phone: (+91) 8555059299
   url: 
   location:
     city: Chennai
@@ -12,27 +12,14 @@ personal:
     country: India
   profiles:
     - network: LinkedIn
-      username: Waseem Riaz
-      url: https://linkedin.com/in/waseem-riaz
+      username: Sai Mahesh Neeli
+      url: https://www.linkedin.com/in/sai-mahesh-7a468b263/
     - network: GitHub
-      username: waseemR02
-      url: https://github.com/waseemR02
+      username: neelisaimahesh
+      url: https://github.com/neelisaimahesh
 
-about: Currently enrolled as final year student. Worked on projects involving robotics, rover, embedded systems, ROS2 and deeplearning.
+about: Currently enrolled as final year student. Worked on projects involving Cybersecurity with hands-on experience in blockchain, cloud computing, and ethical hacking.
 
-work:
-  - organization: Siemens Technology and Services Pvt. Ltd.
-    url: https://www.siemens.com/in/en.html
-    location: Bangalore, India
-    positions:
-      - position: Intern at PAMC
-        startDate: 2024-01-08
-        endDate: "present"
-        highlights:
-          # Creating seiri: an automation tool which is a cross-platfrom automation tool for handling csv <-> xlsx conversions and validating them
-          - "Working on developing a cross-platform GUI tool with `KIVY` called *`Seiri`*"
-          - Handles `csv`$arrow.l.r.double$`xlsx` conversions
-          - Validates files against a set of rules and constraints
 education:
   - institution: SRM Institute of Science and Technology
     url: https://www.srmist.edu.in/
@@ -42,51 +29,10 @@ education:
     endDate: 2025-06-30
     location: Kattankulathur, Tamil Nadu, India 
     honors:
-      - 9.91 CGPA
+      - 8.51 CGPA
     courses:
     highlights:
-      - "*Electives*: Embedded Systems Design, Quantum Computation, Offensive Security, GPU Programming, PCB Designing"
-      - "*Project*: Under the mentorship of Dr.K.Meenakshi, working on _Animal Detection and Alert System_, focused in 
-      optimizing deeplearning models like yolov5 and mobilenet-SSD, and writing paper on tuning hyperparameters with metaheuristic algorithms like `GA`, `IWO` and `PSO`"
-
-affiliations:
-  - organization: Team Rudra
-    position: Developer Head
-    location: SRM IST, Kattankulathur, Tamil Nadu, India
-    url: https://www.srmrudra.com/
-    startDate: 2022-04-30
-    endDate: "present"
-    highlights:
-      - Team focuses on developing rovers for University Rover Challenge and International Rover Challenge
-      - Primarily worked on developing embedded systems for rover and writing ROS2 stack for rover control and autonomous navigation
-      - Implemented `Kyvernitis` for `CAN` interface and modular control of the rover's sub systems
-      - Won 3rd place in International Rover Challenge 2024 and 5th place in International Rover Design Challenge 2023
-
-awards:
-  - title: Global Rank 3rd in International Rover Challenge
-    date: 2024-01-29
-    issuer: Space Robotics Society
-    url: https://drive.google.com/file/d/1_ebH2MqSpNfWNbZqpe0Ak5FTrL2B_8mr/view?usp=sharing
-    location: Coimbatore, Tamil Nadu, India
-    highlights:
-  - title: Global Rank 5th in International Rover Design Challenge
-    date: 2023-10-20
-    issuer: Space Robotics Society
-    url: https://drive.google.com/file/d/12R4VZzB9ERelN0WwLCmrgPU3LodgBRYN/view?usp=sharing
-    location: Chennai, Tamil Nadu, India
-    highlights:
-  - title: Global Rank 7th in International Rover Challenge
-    date: 2023-01-30
-    issuer: Space Robotics Society
-    url: 
-    location: Bangalore, India
-    highlights:
-  - title: Global Rank 8th in International Rover Design Challenge
-    date: 2022-10-29
-    issuer: Space Robotics Society
-    url: https://drive.google.com/file/d/1eOwaZb4CX9R_Low_-fd748czsYjzDUtT/view?usp=sharing
-    location: Chennai, Tamil Nadu, India
-    highlights:
+      - "*Electives*: , Quantum Computation, Offensive Security, GPU Programming, PCB Designing"
 
 certificates:
   - name: "Embedded Systems Programming"
